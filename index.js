@@ -10,3 +10,4 @@ function checkStringOddOrEven(str) {
 
 console.log(checkNumber(10))
 console.log(checkStringOddOrEven('hello'))
+ 
